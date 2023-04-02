@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.page{
+  font-size: inherit;
+  width: 1350px;
+  margin: 0 auto;
+}
+.spinnr_div{
+  text-align: center;
+  margin-top:25% ;
+}
